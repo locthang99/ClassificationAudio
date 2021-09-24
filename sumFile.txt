@@ -1,0 +1,22 @@
+2 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/viet-nam-cai-luong- :9217
+2 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/viet-nam-nhac-tre-v-pop- :20003
+2 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/viet-nam-nhac-trinh- :6157
+2 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/viet-nam-nhac-tru-tinh- :20005
+2 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/viet-nam-rap-viet- :4822
+2 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/viet-nam-nhac-thieu-nhi- :5856
+2 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/viet-nam-nhac-cach-mang- :10412
+2 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/viet-nam-nhac-dan-ca-que-huong- :20800
+2 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/viet-nam-nhac-ton-giao- :15482
+2 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/viet-nam-nhac-khong-loi- :6274
+
+1 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/au-my-classical- :6020 ok
+1 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/au-my-folk- :6154 ok
+1 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/au-my-country- :7016 ok
+1 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/au-my-pop- :0 runing
+1 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/au-my-rock- :7069 ok
+Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/au-my-latin- :0 runing
+1 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/au-my-alternative- :7693 ok
+1 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/au-my-rap-hip-hop- :10001 runing
+1 Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/au-my-blues-jazz- :6800 runing
+Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/au-my-reggae- :0 runing
+Total file in /content/gdrive/MyDrive/KLTN/DatasetWav30s/au-my-r-b-soul- :0 runing

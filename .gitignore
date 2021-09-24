@@ -1,0 +1,6 @@
+PredictModel/Model/*
+PredictModel/Input/*
+PredictModel/Output/*
+*.mp3
+*.flac
+*.wav
